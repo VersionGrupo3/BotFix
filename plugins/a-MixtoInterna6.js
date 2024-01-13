@@ -15,21 +15,21 @@ global.MixtoInterna6 = `
 │
 │ _ESCUADRA 1_
 │
-│• 
-│• 
-│• 
-│• 
-│• 
-│• 
+│• TH
+│• TH
+│• TH
+│• TH
+│• TH
+│• TH
 │
 │ _ESCUADRA 2_
 │
-│• 
-│• 
-│• 
-│• 
-│• 
-│• 
+│• TH
+│• TH
+│• TH
+│• TH
+│• TH
+│• TH
 │
 │ _DONADOR O DONADORA DE SALA :_
 │
