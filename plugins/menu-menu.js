@@ -172,7 +172,6 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 *╭━━━[ AJUSTES - CHATS ]━━━⬣*
 ┃⚙️ _${usedPrefix}on *:* off *bienvenida*_
 ┃⚙️ _${usedPrefix}on *:* off *avisos*_
-┃⚙️ _${usedPrefix}on *:* off *autonivel*_
 ┃⚙️ _${usedPrefix}on *:* off *restringir*_
 ┃⚙️ _${usedPrefix}on *:* off *antillamar*_
 ┃⚙️ _${usedPrefix}on *:* off *publico*_
