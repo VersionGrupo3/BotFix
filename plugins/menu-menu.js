@@ -84,6 +84,18 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 
 let menu = `\`\`\`${horarioFecha}\`\`\`
 
+〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
+
+
+*╭━〔 OPTIMUS INFO 〕━⬣*
+ ┃👤 Creador : Cristhofer
+ ┃📱 Numero ; +51 902 360 712
+ ┃🤑 Adquirir : +51 902 360 712
+ ┃👻 Ig : https://www.instagram.com/optimus.ventas.bot/
+ ┃🤗 User : ${taguser}
+ ${readMore}
+*╰━━━━━━━━━━━━⬣*
+
 *╭━〔 INFORMACIÓN DE OWNER 〕⬣*
 ┃⊜ Experiencia ➟ ${exp} ⚡
 ┃⊜ Diamantes ➟ ${limit} 💎
@@ -105,19 +117,19 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 FUNCION VS / REGLAS 〕━⬣*
-┃💻 _${usedPrefix}Fem4 / Lista TH_
-┃💻 _${usedPrefix}Fem6 / Lista TH_
-┃💻 _${usedPrefix}FemInterna4 / Lista TH_
-┃💻 _${usedPrefix}FemInterna6 / Lista TH_
-┃💻 _${usedPrefix}Masc4 / Lista TH_
-┃💻 _${usedPrefix}Masc6 / Lista TH_
-┃💻 _${usedPrefix}MascInterna4 / Lista TH_
-┃💻 _${usedPrefix}MascInterna6 / Lista TH_
-┃💻 _${usedPrefix}Mixto4 / Lista TH_
-┃💻 _${usedPrefix}Mixto6 / 3 - 3_
-┃💻 _${usedPrefix}MixtoInterna4 / Lista TH_
-┃💻 _${usedPrefix}MixtoInterna6 / Lista TH_
-┃💻 _${usedPrefix}ReglasApos_
+┃💻➺ _${usedPrefix}Fem4 / Lista TH_
+┃💻➺ _${usedPrefix}Fem6 / Lista TH_
+┃💻➺ _${usedPrefix}FemInterna4 / Lista TH_
+┃💻➺ _${usedPrefix}FemInterna6 / Lista TH_
+┃💻➺ _${usedPrefix}Masc4 / Lista TH_
+┃💻➺ _${usedPrefix}Masc6 / Lista TH_
+┃💻➺ _${usedPrefix}MascInterna4 / Lista TH_
+┃💻➺ _${usedPrefix}MascInterna6 / Lista TH_
+┃💻➺ _${usedPrefix}Mixto4 / Lista TH_
+┃💻➺ _${usedPrefix}Mixto6 / 3 - 3_
+┃💻➺ _${usedPrefix}MixtoInterna4 / Lista TH_
+┃💻➺ _${usedPrefix}MixtoInterna6 / Lista TH_
+┃💻➺ _${usedPrefix}ReglasApos_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 JUEGOS - MULTI JUEGOS 〕━⬣*
