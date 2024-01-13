@@ -93,8 +93,7 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 
 *╭━〔 INFORMACIÓN DE OPTIMUS BOT 〕⬣*
 ┃💫➺ _${usedPrefix}cuentasbot_
-┃💫➺ _${usedPrefix}grupos_
-┃💫➺ _${usedPrefix}donar_
+┃💫➺ _${usedPrefix}gruposbot_
 ┃💫➺ _${usedPrefix}listagrupos_
 ┃💫➺ _${usedPrefix}estado_
 ┃💫➺ _${usedPrefix}infobot_
@@ -129,7 +128,7 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 ┃🎡➺ _${usedPrefix}Minovia_
 ┃🎡➺ _${usedPrefix}Minovio_
 ┃🎡➺ _${usedPrefix}Sorteo_
-┃🎡➺ _${usedPrefix}Nalguear_
+┃🎡➺ _${usedPrefix}Nalga_
 ┃🎡➺ _${usedPrefix}Sega_
 ┃🎡➺ _${usedPrefix}mates | matemáticas | math_
 ┃🎡➺ _${usedPrefix}lanzar *cara* | *cruz*
@@ -219,7 +218,6 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 ┃🚀➺ _${usedPrefix}pdocvieo | ytvdoc *link*_
 ┃🚀➺ _${usedPrefix}tw |twdl | twitter *link*_
 ┃🚀➺ _${usedPrefix}facebook | fb *link*_
-┃🚀➺ _${usedPrefix}instagram *link video o imagen*_
 ┃🚀➺ _${usedPrefix}verig | igstalk *usuario(a)*_
 ┃🚀➺ _${usedPrefix}ighistoria | igstory *usuario(a)*_
 ┃🚀➺ _${usedPrefix}tiktok *link*_
