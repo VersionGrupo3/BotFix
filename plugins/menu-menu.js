@@ -431,7 +431,6 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 ┃⚗️➺ _${usedPrefix}cartera | wallet_
 ┃⚗️➺ _${usedPrefix}experiencia | exp_
 ┃⚗️➺ _${usedPrefix}top | lb | leaderboard_
-┃⚗️➺ _${usedPrefix}nivel | level | lvl_
 ┃⚗️➺ _${usedPrefix}rol | rango_
 ┃⚗️➺ _${usedPrefix}inventario | inventory_
 ┃⚗️➺ _${usedPrefix}aventura | adventure_
