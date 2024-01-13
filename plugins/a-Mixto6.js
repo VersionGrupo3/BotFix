@@ -23,7 +23,7 @@ global.Mixto6 = `
 │   ㅤㅤ
 │ㅤㅤ_ʚ Suplentxs:_
 │ㅤ🌸• TH
-│  ㅤ🏻• TH
+│  🥷🏻• TH  
 │
 │   _⊹ ִֶָ Donador/Donadora De Sala:_ 
 │
