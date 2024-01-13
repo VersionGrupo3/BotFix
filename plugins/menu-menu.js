@@ -85,10 +85,10 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 let menu = `\`\`\`${horarioFecha}\`\`\`
 
 *╭━〔 INFORMACIÓN DE OWNER 〕⬣*
-┃⊜ *Experiencia ➟* ${exp} ⚡
-┃⊜ *Diamantes ➟* ${limit} 💎
-┃⊜ *OptimusCoins ➟* ${money} 🤖
-┃⊜ *Tokens ➟* ${joincount} 🪙
+┃⊜ Experiencia ➟ ${exp} ⚡
+┃⊜ Diamantes ➟ ${limit} 💎
+┃⊜ OptimusCoins ➟ ${money} 🤖
+┃⊜ Tokens ➟ ${joincount} 🪙
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 INFORMACIÓN DE OPTIMUS BOT 〕⬣*
@@ -104,7 +104,6 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 FUNCION VS / REGLAS 〕━⬣*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃💻 _${usedPrefix}Fem4_
 ┃💻 _${usedPrefix}Fem6_
 ┃💻 _${usedPrefix}FemInterna4_
@@ -122,15 +121,10 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 
 
 *╭━〔 ÚNETE AL GRUPO 〕━⬣*
-┃ *Compra Bot Pa Tu Grupo*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃🪅 _${usedPrefix}botgrupo _
+┃🪅 _${usedPrefix}botgrupo_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 SER PREMIUM 〕━⬣*
-┃ *Convierte en un(a)*
-┃ *Usuario(a) Premium!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🎟️ _${usedPrefix}listapremium_
 ┃🎟️ _${usedPrefix}pase premium_
 ┃🎟️ _${usedPrefix}pass premium_
@@ -142,12 +136,12 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 ┃🎡➺ _${usedPrefix}Cuando_
 ┃🎡➺ _${usedPrefix}Follar_
 ┃🎡➺ _${usedPrefix}Huevo_
-┃🎡➺ _${usedPrefix}Formartrio
-┃🎡➺ _${usedPrefix}Minovia
-┃🎡➺ _${usedPrefix}Minovio
-┃🎡➺ _${usedPrefix}Sorteo
-┃🎡➺ _${usedPrefix}Nalguear
-┃🎡➺ _${usedPrefix}Sega
+┃🎡➺ _${usedPrefix}Formartrio_
+┃🎡➺ _${usedPrefix}Minovia_
+┃🎡➺ _${usedPrefix}Minovio_
+┃🎡➺ _${usedPrefix}Sorteo_
+┃🎡➺ _${usedPrefix}Nalguear_
+┃🎡➺ _${usedPrefix}Sega_
 ┃🎡➺ _${usedPrefix}mates | matemáticas | math_
 ┃🎡➺ _${usedPrefix}lanzar *cara* | *cruz*
 ┃🎡➺ _${usedPrefix}ppt *piedra : papel : tijera*_
@@ -188,9 +182,6 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 *╰━━━━━━━━━━━━⬣*
 
 *╭━━━[ AJUSTES - CHATS ]━━━⬣*
-┃ *Configura si eres Propietario(a) y/o*
-┃ *Admin!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃⚙️ _${usedPrefix}on *:* off *bienvenida*_
 ┃⚙️ _${usedPrefix}on *:* off *avisos*_
 ┃⚙️ _${usedPrefix}on *:* off *autonivel*_
@@ -221,9 +212,6 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 GRUPO - RESUMEN 〕━⬣*
-┃ *Ahora puedes ver el resumen*
-┃ *de configuracion de Grupos!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🧾➺ _${usedPrefix}configuracion_
 ┃🧾➺ _${usedPrefix}settings_
 ┃🧾➺ _${usedPrefix}vergrupo_
@@ -260,9 +248,6 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ CHAT ANONIMO ]━⬣*
-┃ *¡Escribe con Alguien* 
-┃ *de forma Anónima!* 
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃👤➺ _${usedPrefix}chatanonimo | anonimochat_
 ┃👤➺ _${usedPrefix}anonimoch_
 ┃👤➺ _${usedPrefix}start_
@@ -306,9 +291,6 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 *╰━━━━━━━━━━━━⬣*
 
 *╭━━━[ PAREJAS 💞 ]━━⬣*
-┃ *Declarate con alguien*
-┃ *para que sean Parejas!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃❤️➺ _${usedPrefix}listaparejas | listship_
 ┃❤️➺ _${usedPrefix}mipareja | mylove_
 ┃❤️➺ _${usedPrefix}pareja | couple *@tag*_
@@ -318,9 +300,6 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ VOTACIONES EN GRUPOS 📧 ]━⬣*
-┃ *Ahora puedes hacer*
-┃ *Votaciones en Grupos!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃📧➺ _${usedPrefix}crearvoto | startvoto *texto*_
 ┃📧➺ _${usedPrefix}sivotar | upvote_
 ┃📧➺ _${usedPrefix}novotar | devote_
@@ -329,16 +308,10 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 *╰━━━━━━━━━━━━⬣*
 
 *╭━━━[ CONTENIDO 🔞 ]━━⬣*
-┃ *Visita el Menú de Comandos*
-┃ *Para Adultos!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🔞➺ _${usedPrefix}hornymenu_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ CONVERTIDORES 🛰️ ]━⬣*
-┃ *Convierte sticker en imagen!!*
-┃ *Crea enlace de archivos!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🛰️➺ _${usedPrefix}toimg | img | jpg *sticker*_
 ┃🛰️➺ _${usedPrefix}toanime | jadianime *foto*_
 ┃🛰️➺ _${usedPrefix}tomp3 | mp3 *video o nota de voz*_
@@ -350,9 +323,6 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 *╰━━━━━━━━━━━━⬣*
 
 *╭━━━[ LOGOS 🔆 ]━━⬣*
-┃ *Crea Logos o personaliza*
-┃ *la información del Logo!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🔆 _${usedPrefix}logos *efecto texto*_
 ┃🌅 _${usedPrefix}menulogos2_
 *╰━━━━━━━━━━━━⬣*
@@ -421,9 +391,6 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ MODIFICAR AUDIO 🧰 ]━⬣*
-┃ *Realiza Modificaciones*
-┃ *al Audio o Nota de Voz!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🧰 _${usedPrefix}bass_
 ┃🧰 _${usedPrefix}blown_
 ┃🧰 _${usedPrefix}deep_
@@ -439,8 +406,6 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 *╰━━━━━━━━━━━━⬣*
 
 *╭━━[ BÚSQUEDAS 🔍 ]━━⬣*
-┃ *Busca lo que quieres con GataBot!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🔍➺ _${usedPrefix}animeinfo *texto*_
 ┃🔍➺ _${usedPrefix}mangainfo *texto*_
 ┃🔍➺ _${usedPrefix}google *texto*_
@@ -448,13 +413,6 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 ┃🔍➺ _${usedPrefix}letra | lirik *texto*_
 ┃🔍➺ _${usedPrefix}ytsearch | yts *texto*_
 ┃🔍➺ _${usedPrefix}wiki | wikipedia *texto*_
-*╰━━━━━━━━━━━━⬣*
-
-*╭━━━[ AUDIOS 🔊 ]━━⬣*
-┃ *Visita el Menú de Audios!!*
-┃ *Disfruta de una Gran Variedad*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃➫🔊 _${usedPrefix}audios_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━━[ HERRAMIENTAS 🛠️ ]━━⬣*
@@ -467,18 +425,15 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 ┃🛠️ _${usedPrefix}spamwa *numero|texto|cantidad*_
 ┃🛠️ _${usedPrefix}styletext *texto*_
 ┃🛠️ _${usedPrefix}traducir *texto*_
-┃🛠️➺ _${usedPrefix}morse codificar *texto*_
-┃🛠️➺ _${usedPrefix}morse decodificar *morse*_
-┃🛠️➺ _${usedPrefix}encuesta | poll *Motivo*_
-┃🛠️➺ _${usedPrefix}horario_
+┃🛠️ _${usedPrefix}morse codificar *texto*_
+┃🛠️ _${usedPrefix}morse decodificar *morse*_
+┃🛠️ _${usedPrefix}encuesta | poll *Motivo*_
+┃🛠️ _${usedPrefix}horario_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━━━[ FUNCIÓN RPG ]━━⬣*
-┃ *Compra, Adquiere Recuersos*
-┃ *Mejora Tú Nivel y Rango!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃🪅 _${usedPrefix}botemporal *enlace* *cantidad*_
-┃🪅 _${usedPrefix}addbot *enlace* *cantidad*_
+┃⚗️➺ _${usedPrefix}botemporal *enlace* *cantidad*_
+┃⚗️➺ _${usedPrefix}addbot *enlace* *cantidad*_
 ┃⚗️➺ _${usedPrefix}pase premium_
 ┃⚗️➺ _${usedPrefix}pass premium_
 ┃⚗️➺ _${usedPrefix}listapremium | listprem_
@@ -517,15 +472,10 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 *╰━━━━━━━━━━━━⬣*
 
 *╭━━━[ TOP EN OPTIMUS ]━━⬣*
-┃ *Averigua en que Top te encuentras!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🏆➺ _${usedPrefix}top_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ STICKERS Y FILTROS ]━⬣*
-┃ *Realiza stickers o crea*
-┃ *stickers con filtros!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🎐 _${usedPrefix}sticker | s *imagen o video*_
 ┃🎐 _${usedPrefix}sticker | s *url de tipo jpg*_
 ┃🎐 _${usedPrefix}emojimix *😺+😆*_
@@ -546,16 +496,11 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ MODIFICAR STICKERS ]━⬣*
-┃ *Personaliza la información del Sticker!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃💡 _${usedPrefix}wm *packname|author*_
 ┃💡 _${usedPrefix}wm *texto1|texto2*_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ STICKERS DINÁMICOS ]━⬣*
-┃ *Realiza acciones con Stickers*
-┃ *Etiquetando a alguien!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃⛱️ _${usedPrefix}palmaditas | pat *@tag*_
 ┃⛱️ _${usedPrefix}bofetada | slap *@tag*_
 ┃⛱️ _${usedPrefix}golpear *@tag*_
@@ -564,10 +509,8 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ MENU PARA PROPIETARIO/A ]━⬣*
-┃ *Comandos solo para Propietario/a!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃💎 _${usedPrefix}join *enlace*_
-┃💎 _${usedPrefix}unete *enlace*_
+┃💎➺ _${usedPrefix}join *enlace*_
+┃💎➺ _${usedPrefix}unete *enlace*_
 ┃💎➺ _${usedPrefix}dardiamantes *cantidad*_
 ┃💎➺ _${usedPrefix}darxp *cantidad*_
 ┃💎➺ _${usedPrefix}dargatacoins *cantidad*_
