@@ -103,18 +103,18 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 FUNCION VS / REGLAS 〕━⬣*
-┃💻 _${usedPrefix}Fem4_
-┃💻 _${usedPrefix}Fem6_
-┃💻 _${usedPrefix}FemInterna4_
-┃💻 _${usedPrefix}FemInterna6_
-┃💻 _${usedPrefix}Masc4_
-┃💻 _${usedPrefix}Masc6_
-┃💻 _${usedPrefix}MascInterna4_
-┃💻 _${usedPrefix}MascInterna6_
-┃💻 _${usedPrefix}Mixto4 / 2 - 2_
+┃💻 _${usedPrefix}Fem4 / Lista TH_
+┃💻 _${usedPrefix}Fem6 / Lista TH_
+┃💻 _${usedPrefix}FemInterna4 / Lista TH_
+┃💻 _${usedPrefix}FemInterna6 / Lista TH_
+┃💻 _${usedPrefix}Masc4 / Lista TH_
+┃💻 _${usedPrefix}Masc6 / Lista TH_
+┃💻 _${usedPrefix}MascInterna4 / Lista TH_
+┃💻 _${usedPrefix}MascInterna6 / Lista TH_
+┃💻 _${usedPrefix}Mixto4 / Lista TH_
 ┃💻 _${usedPrefix}Mixto6 / 3 - 3_
-┃💻 _${usedPrefix}MixtoInterna4 / Libre_
-┃💻 _${usedPrefix}MixtoInterna6 / Libre_
+┃💻 _${usedPrefix}MixtoInterna4 / Lista TH_
+┃💻 _${usedPrefix}MixtoInterna6 / Lista TH_
 ┃💻 _${usedPrefix}ReglasApos_
 *╰━━━━━━━━━━━━⬣*
 
