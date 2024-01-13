@@ -89,7 +89,6 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 ┃⊜ *Diamantes ➟* ${limit} 💎
 ┃⊜ *OptimusCoins ➟* ${money} 🤖
 ┃⊜ *Tokens ➟* ${joincount} 🪙
-${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 INFORMACIÓN DE OPTIMUS BOT 〕⬣*
