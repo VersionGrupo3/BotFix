@@ -89,8 +89,8 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 ┃⊜ Diamantes ➟ ${limit} 💎
 ┃⊜ OptimusCoins ➟ ${money} 🤖
 ┃⊜ Tokens ➟ ${joincount} 🪙
-┃⊜ Grupo ➟ https://whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3 💻
-┃⊜ Tokens ➟ https://instagram/optimus.ventas.bot 💻
+┃⊜ Grupo Ofc ➟ https://whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3 💻
+┃⊜ Ig Referencias  ➟ https://www.instagram.com/optimus.ventas.bot 💻
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 INFORMACIÓN DE OPTIMUS BOT 〕⬣*
