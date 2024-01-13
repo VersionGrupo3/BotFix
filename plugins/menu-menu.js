@@ -83,8 +83,6 @@ lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
 let menu = `\`\`\`${horarioFecha}\`\`\`
-〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
-
 
 *╭━〔 OPTIMUS INFO 〕━⬣*
  ┃👤 Creador : Cristhofer
@@ -92,7 +90,6 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
  ┃🤑 Adquirir : +51 902 360 712
  ┃👻 Ig : https://www.instagram.com/optimus.ventas.bot/
  ┃🤗 User : ${taguser}
- ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 INFORMACIÓN DE OWNER 〕⬣*
