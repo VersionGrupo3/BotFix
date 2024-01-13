@@ -8,28 +8,29 @@ handler.group = true
 handler.botAdmin = true
 
 global.MascInterna6 = `
-│ *SALA INTERNA MASC*
-│ *HORA : 10 🇵🇪 00 🇦🇷*
-│ *MOD : VV2*
+╭┈┈ ๑❀๑ •  *MASC* • ๑❀๑ ••: 
 │
-│ _ESCUADRA 1_
+│      ෆ _Encargado:_   
+│      ෆ _Horario:_ ( 10 )🇵🇪 ( 00 )🇦🇷 
+│      ෆ _Mod:_  
+│ 
+│ㅤㅤ_ʚ Escuadra 1:_ 
+│ㅤ🥷🏻• TH  
+│ㅤ🥷🏻• TH  
+│ㅤ🥷🏻• TH  
+│ㅤ🥷🏻• TH  
+│ㅤ🥷🏻• TH  
+│ㅤ🥷🏻• TH  
 │
-│🥷🏻•
-│🥷🏻•
-│🥷🏻•
-│🥷🏻•.
-│🥷🏻•
-│🥷🏻•
-│
-│ _ESCUADRA 2_
-│
-│🥷🏻•
-│🥷🏻•
-│🥷🏻•
-│🥷🏻•
-│🥷🏻•
-│🥷🏻•
-│
-│
-│ _DONADOR DE SALA :_
+│ㅤㅤ_ʚ Escuadra 2:_ 
+│ㅤ🥷🏻• TH 
+│ㅤ🥷🏻• TH 
+│  🥷🏻• TH 
+│ㅤ🥷🏻• TH 
+│ㅤ🥷🏻• TH  
+│ㅤ🥷🏻• TH  
+│ 
+│   _⊹ ִֶָ Donador/Donadora De Sala:_  
+│ 
+╰───────────────๑❀๑  
 `;

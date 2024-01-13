@@ -8,22 +8,26 @@ handler.group = true
 handler.botAdmin = true
 
 global.Fem6 = `
-│      ෆ _Encargada:_
+╭┈┈ ๑❀๑ •  *FEM* • ๑❀๑ ••:
+│
+│      ෆ _Encargadx:_  
 │      ෆ _Horario:_ (  )🇵🇪 (  )🇦🇷
-│      ෆ _Mod:_     
+│      ෆ _Mod:_ 
 │
-│ㅤㅤʚ 𝘑𝘶𝘨𝘢𝘥𝘰𝘳𝘢𝘴:
-│ㅤ🌸• 
-│ㅤ🌸• 
-│ㅤ🌸• 
-│ㅤ🌸•
-│  🌸• 
-│ㅤ🌸•
-│   ㅤㅤ
-│ㅤㅤʚ 𝘚𝘶𝘱𝘭𝘦𝘯𝘵𝘦𝘴:
-│ㅤ🌸•
-│ㅤ🌸•
+│ㅤㅤ_ʚ Jugadorxs:_
+│ㅤ🌸• TH 
+│ㅤ🌸• TH 
+│ㅤ🌸• TH 
+│ㅤ🌸• TH 
+│  🌸• TH 
+│ㅤ🌸• TH 
+
+│ㅤㅤ_ʚ Suplentxs:_ 
+│ㅤ🌸• TH 
+│ㅤ🌸• TH 
+│ㅤ🌸• TH 
 │
-│   ⊹ ִֶָ  𝘋𝘰𝘯𝘢𝘥𝘰𝘳𝘢 𝘥𝘦 𝘴𝘢𝘭𝘢: 
+│   _⊹ ִֶָ Donador/Donadora De Sala:_ 
 │
+╰───────────────๑❀๑ 
 `;

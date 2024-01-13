@@ -8,6 +8,7 @@ handler.group = true
 handler.botAdmin = true
 
 global.Mixto6 = `
+╭┈┈ ๑❀๑ •  *MIXTO* • ๑❀๑ ••:
 │      ෆ _Encargadx:_
 │      ෆ _Horario:_ (  )🇵🇪 (  )🇦🇷
 │      ෆ _Mod:_     
@@ -26,4 +27,5 @@ global.Mixto6 = `
 │
 │   _⊹ ִֶָ Donador/Donadora De Sala:_ 
 │
+╰───────────────๑❀๑ 
 `;

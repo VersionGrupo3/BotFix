@@ -8,6 +8,7 @@ handler.group = true
 handler.botAdmin = true
 
 global.MixtoInterna4 = `
+╭┈┈ ๑❀๑ •  *MIXTO* • ๑❀๑ ••:
 │ *SALA INTERNA MIXTA*
 │ *HORA : 10 🇵🇪 00 🇦🇷*
 │ *MOD : VV2*
@@ -28,4 +29,6 @@ global.MixtoInterna4 = `
 │
 │
 │ _DONADOR O DONADORA DE SALA :_
+│
+╰───────────────๑❀
 `;
