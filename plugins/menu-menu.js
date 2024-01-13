@@ -119,17 +119,6 @@ let menu = `\`\`\`${horarioFecha}\`\`\`
 ┃💻 _${usedPrefix}ReglasApos_
 *╰━━━━━━━━━━━━⬣*
 
-
-*╭━〔 ÚNETE AL GRUPO 〕━⬣*
-┃🪅 _${usedPrefix}botgrupo_
-*╰━━━━━━━━━━━━⬣*
-
-*╭━〔 SER PREMIUM 〕━⬣*
-┃🎟️ _${usedPrefix}listapremium_
-┃🎟️ _${usedPrefix}pase premium_
-┃🎟️ _${usedPrefix}pass premium_
-*╰━━━━━━━━━━━━⬣*
-
 *╭━〔 JUEGOS - MULTI JUEGOS 〕━⬣*
 ┃🎡➺ _${usedPrefix}Abrazo_
 ┃🎡➺ _${usedPrefix}Cumple_
