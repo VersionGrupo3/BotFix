@@ -7,7 +7,7 @@ handler.admin = true
 handler.group = true
 handler.botAdmin = true
 
-global.Fem4 = `
+global.Fem4 = ` 
 ╭┈┈ ๑❀๑ •  *FEM* • ๑❀๑ ••:
 │
 │      ෆ _Encargadx:_  
