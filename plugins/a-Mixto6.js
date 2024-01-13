@@ -14,12 +14,12 @@ global.Mixto6 = `
 │      ෆ _Mod:_     
 │
 │ㅤㅤ_ʚ Jugadorxs:_
-│  🌸• TH
-│ㅤ🌸• TH
-│  🌸• TH
-│ㅤㅤ🏻• TH
-│  ㅤ🏻• TH
-│ㅤㅤ🏻• TH
+│ㅤ🌸• TH 
+│ㅤ🌸• TH 
+│ㅤ🌸• TH 
+│ㅤ🥷🏻• TH 
+│ㅤ🥷🏻• TH 
+│ㅤ🥷🏻• TH  
 │   ㅤㅤ
 │ㅤㅤ_ʚ Suplentxs:_
 │ㅤ🌸• TH
