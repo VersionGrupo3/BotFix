@@ -125,9 +125,11 @@ let menu = `〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
 ┃💻➺ _${usedPrefix}ReglasApos_
 *╰━━━━━━━━━━━━⬣*
 
-*╭━〔 SPAM COMU Y WHATSAPP 〕⬣*
+*╭━〔 SPAM Y EDITS 〕⬣*
 ┃👤➺ _${usedPrefix}SpamApk / WhatsApp_
 ┃👤➺ _${usedPrefix}SpamComu / Comunidades_
+┃👤➺ _${usedPrefix}ApkEdits_
+┃👤➺ _${usedPrefix}DriveEdits / Recursos_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 JUEGOS - MULTI JUEGOS 〕━⬣*
