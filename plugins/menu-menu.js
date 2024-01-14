@@ -82,11 +82,11 @@ months: ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto
 lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
-let menu = `*╭━〔 OPTIMUS INFO 〕━⬣*
+let menu = `*╭━〔 OPTIMUS BOT 〕━⬣*
  ┃👤 Creador : Cristhofer
  ┃📱 Numero ; +51 902 360 712
  ┃🤑 Adquirir : +51 902 360 712
- ┃👻 Ig : https://www.instagram.com/optimus.ventas.bot/
+ ┃👻 Ig : @optimus.ventas.bot
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 INFORMACIÓN DE OWNER 〕⬣*
@@ -94,8 +94,6 @@ let menu = `*╭━〔 OPTIMUS INFO 〕━⬣*
 ┃⊜ Diamantes ➟ ${limit} 💎
 ┃⊜ OptimusCoins ➟ ${money} 🤖
 ┃⊜ Tokens ➟ ${joincount} 🪙
-┃⊜ Grupo Ofc ➟ https://whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3 💻
-┃⊜ Ig Referencias  ➟ https://www.instagram.com/optimus.ventas.bot 💻
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 INFORMACIÓN DE OPTIMUS BOT 〕⬣*
