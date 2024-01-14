@@ -7,10 +7,12 @@ handler.admin = true
 handler.group = true
 handler.botAdmin = true
 
-global.SpamLink = `
+global.SpamLink = `〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
 
 
+𝐋𝐈𝐍𝐊 𝐒𝐏𝐀𝐌 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 : https://www.mediafire.com/file/elvm4t2m0tf25ux/SPAM_WHATSAPP.apk/file
 
+𝗟𝗜𝗡𝗞𝗦 𝗗𝗘 𝗖𝗢𝗠𝗨𝗡𝗜𝗗𝗔𝗗𝗘𝗦 :
 https://chat.whatsapp.com/CP9eIdCQdeICMZPb2yAOY2
 https://chat.whatsapp.com/LLIViD8u5ikGcQJDVbHur2
 https://chat.whatsapp.com/Hl4182CYTps33aVYUzlSgf
