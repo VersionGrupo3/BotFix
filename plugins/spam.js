@@ -3,10 +3,6 @@ const handler = async (m, {conn}) => {
 };
 handler.command = /^(SpamLink|SpamLink)$/i;
 export default handler;
-handler.admin = true
-handler.group = true
-handler.botAdmin = true
-
 global.SpamLink = `〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
 
 
