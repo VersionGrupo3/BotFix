@@ -91,7 +91,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
  ┃📱 Numero ; +51 902 360 712
  ┃🤑 Adquirir : +51 902 360 712
  ┃👻 Ig : https://www.instagram.com/optimus.ventas.bot/
- ┃🤗 User : ${taguser}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 INFORMACIÓN DE OWNER 〕⬣*
