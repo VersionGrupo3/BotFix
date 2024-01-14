@@ -561,8 +561,6 @@ text: `🍃 \`\`\`VERIFICACIÓN EXITOSA\`\`\` 🍃
 ❱❱ ${user.tiempo}\n
 🛅 *CÓDIGO DE REGISTRO*
 ❱❱ ${sn}\n
-✅ *INSIGNIA DE VERIFICACIÓN*
-❱❱   *${user.registered === true ? 'ͧͧͧͦꙶͣͤ✓ᚲᴳᴮ' : ''}*\n
 ✨ *NOMBRE* 
 ❱❱ ${user.name}\n
 👀 *DESCRIPCIÓN*
@@ -571,8 +569,6 @@ text: `🍃 \`\`\`VERIFICACIÓN EXITOSA\`\`\` 🍃
 ❱❱ ${user.age}\n
 ${user.registroC === true ? `☘️ *GENERO*
 ❱❱ ${user.genero}\n
-🌱 *ORIENTACIÓN SEXUAL*
-❱❱ ${user.identidad}\n
 ❇️ *PASATIEMPO(S)*
 ❱❱ ${user.pasatiempo}\n
 ${user.premLimit === 1 ? '' : `🎟️ *PREMIUM*
