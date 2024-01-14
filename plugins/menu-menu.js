@@ -82,7 +82,9 @@ months: ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto
 lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
-let menu = `*╭━〔 OPTIMUS BOT 〕━⬣*
+let menu = `〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
+
+*╭━〔 OPTIMUS BOT 〕━⬣*
  ┃👤 Creador : Cristhofer
  ┃📱 Numero ; +51 902 360 712
  ┃🤑 Adquirir : +51 902 360 712
@@ -121,6 +123,10 @@ let menu = `*╭━〔 OPTIMUS BOT 〕━⬣*
 ┃💻➺ _${usedPrefix}MixtoInterna4 / Lista TH_
 ┃💻➺ _${usedPrefix}MixtoInterna6 / Lista TH_
 ┃💻➺ _${usedPrefix}ReglasApos_
+*╰━━━━━━━━━━━━⬣*
+
+*╭━〔 SPAM COMU Y WHATSAPP 〕⬣*
+┃👤➺ _${usedPrefix}SpamLink / Comunidades Y WhatsApp_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 JUEGOS - MULTI JUEGOS 〕━⬣*
