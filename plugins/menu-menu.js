@@ -126,7 +126,8 @@ let menu = `〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 SPAM COMU Y WHATSAPP 〕⬣*
-┃👤➺ _${usedPrefix}SpamLink / Comunidades Y WhatsApp_
+┃👤➺ _${usedPrefix}SpamApk / WhatsApp_
+┃👤➺ _${usedPrefix}SpamComu / Comunidades_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 JUEGOS - MULTI JUEGOS 〕━⬣*
