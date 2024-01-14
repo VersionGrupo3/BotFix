@@ -100,9 +100,9 @@ text: registroRapido,
 contextInfo: {
 externalAdReply: {
 title: wm,
-body: '🌟 Puede modificar su registro antes de finalizar',
+body: '〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕',
 thumbnailUrl: pp, 
-sourceUrl: 'https://www.atom.bio/gatabot/',
+sourceUrl: 'https://www.instagram.com/optimus.ventas.bot/',
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: true
@@ -582,7 +582,7 @@ externalAdReply: {
 title: wm,
 body: user.name,
 thumbnailUrl: pp, 
-sourceUrl: 'https://www.atom.bio/gatabot/',
+sourceUrl: 'https://www.instagram.com/optimus.ventas.bot',
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: true
