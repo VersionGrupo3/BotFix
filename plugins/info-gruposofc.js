@@ -3,7 +3,7 @@ let handler = async (m, { conn, command }) => {
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 let str = `
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-✅ 𝙂𝙍𝙐𝙋𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 : https://chat.whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3
+✅ 𝙂𝙍𝙐𝙋𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 : *${nna}*`
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 `
 await conn.sendFile(m.chat, media, 'gata.mp4', str, fkontak)}
