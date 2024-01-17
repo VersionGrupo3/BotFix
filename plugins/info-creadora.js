@@ -7,7 +7,7 @@ const cat = `〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
 *---------------------*
 
 〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
-*${asistencia}*`
+*${nna}*`
 
 await conn.sendFile(m.chat, pp, 'gata.mp4', cat, fkontak)
 }
