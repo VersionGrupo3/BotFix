@@ -15,14 +15,14 @@ global.Mixto4 = `
 │      ෆ _Mod:_ 
 │
 │ㅤㅤ_ʚ Jugadorxs:_
-│ㅤ🌸• TH 
-│ㅤ🌸• TH 
-│ㅤ🥷🏻• TH 
-│ㅤ🥷🏻• TH  
+│ㅤ🌸• 
+│ㅤ🌸• 
+│ㅤ🥷🏻• 
+│ㅤ🥷🏻• 
 │
 │ㅤㅤ_ʚ Suplentes:_ 
-│ㅤ🌸• TH 
-│ㅤ🥷🏻• TH 
+│ㅤ🌸•  
+│ㅤ🥷🏻• 
 │
 │   _⊹ ִֶָ Donador/Donadora De Sala:_ 
 │
