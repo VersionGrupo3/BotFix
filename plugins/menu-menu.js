@@ -102,7 +102,6 @@ let menu = `〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
 *╭━〔 INFORMACIÓN DE OPTIMUS BOT 〕⬣*
 ┃💫➺ _${usedPrefix}cuentasbot_
 ┃💫➺ _${usedPrefix}gruposbot_
-┃💫➺ _${usedPrefix}listagrupos_
 ┃💫➺ _${usedPrefix}estado_
 ┃💫➺ _${usedPrefix}infobot_
 ┃💫➺ _${usedPrefix}comprarbot_
