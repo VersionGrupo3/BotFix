@@ -88,6 +88,7 @@ let menu = `〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
  ┃👤 Creador : Cristhofer
  ┃📱 Numero ; +51 902 360 712
  ┃🤑 Adquirir : +51 902 360 712
+ ┃👻 Ig : ${taguser}
  ┃👻 Ig : ${md}
  ┃💻 Grupo : ${nna}
 *╰━━━━━━━━━━━━⬣*
@@ -109,7 +110,7 @@ let menu = `〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
 ┃💫➺ _${usedPrefix}velocidad_
 *╰━━━━━━━━━━━━⬣*
 
-*╭━〔 FUNCION VS / REGLAS 〕━⬣*
+*╭━〔 FUNCION VS / REGLAS / FICHA〕━⬣*
 ┃💻➺ _${usedPrefix}Fem4 / Lista TH_
 ┃💻➺ _${usedPrefix}Fem6 / Lista TH_
 ┃💻➺ _${usedPrefix}FemInterna4 / Lista TH_
@@ -123,6 +124,7 @@ let menu = `〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
 ┃💻➺ _${usedPrefix}MixtoInterna4 / Lista TH_
 ┃💻➺ _${usedPrefix}MixtoInterna6 / Lista TH_
 ┃💻➺ _${usedPrefix}ReglasApos_
+┃💻➺ _${usedPrefix}Ficha / Formulario Pa Entrar A Team_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 SPAM Y EDITS 〕⬣*
