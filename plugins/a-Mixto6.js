@@ -14,16 +14,16 @@ global.Mixto6 = `
 │      ෆ _Mod:_     
 │
 │ㅤㅤ_ʚ Jugadorxs:_
-│ 🌸• TH 
-│ 🌸• TH 
-│ 🌸• TH 
-│ 🥷🏻• TH 
-│ 🥷🏻• TH 
-│ 🥷🏻• TH  
-│   ㅤㅤ
+│ 🌸• 
+│ 🌸• 
+│ 🌸• 
+│ 🥷🏻• 
+│ 🥷🏻• 
+│ 🥷🏻• 
+│ 
 │ㅤㅤ_ʚ Suplentxs:_
-│ 🌸• TH
-│ 🥷🏻• TH  
+│ 🌸• 
+│ 🥷🏻• 
 │
 │   _⊹ ִֶָ Donador/Donadora De Sala:_ 
 │
