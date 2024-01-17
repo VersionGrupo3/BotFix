@@ -144,19 +144,19 @@ global.ths = "https://www.instagram.com/optimus.ventas.bot"
 global.paypal = 'https://www.instagram.com/optimus.ventas.bot'
 global.asistencia = 'https://wa.me/51902360711' //Contacto
 
-global.nna = 'https://whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // CANAL UPDATE
-global.nn2 = 'https://whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // CANAL GataBot
-global.nna2 = 'https://chat.whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // Help
+global.nna = 'https://chat.whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // CANAL UPDATE
+global.nn2 = 'https://www.instagram.com/optimus.ventas.bot' // CANAL GataBot
+global.nna2 = 'https://www.instagram.com/optimus.ventas.bot' // Help
 global.nn = 'https://chat.whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // Grupo 1
-global.nnn = 'https://chat.whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // A.T.M.M
+global.nnn = 'https://www.instagram.com/optimus.ventas.bot' // Grupo 2
+global.nnnt = 'https://www.instagram.com/optimus.ventas.bot' // Grupo 3
+global.nnntt = 'https://www.instagram.com/optimus.ventas.bot' // Grupo 4
+global.nnnttt = 'https://www.instagram.com/optimus.ventas.bot' // Grupo 5
+global.nnnttt1 = 'https://www.instagram.com/optimus.ventas.bot' // Grupo 6 COL
+global.nnnttt2 = 'https://www.instagram.com/optimus.ventas.bot' // Grupo 7 COL
+global.nnnttt3 = 'https://www.instagram.com/optimus.ventas.bot' // Grupo 8 COL
+global.nnnttt4 = 'https://www.instagram.com/optimus.ventas.bot' // Grupo 9 COL
+global.nnnttt5 = 'https://www.instagram.com/optimus.ventas.bot' // A.T.M.M
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = '╰⊱✅⊱ *𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊 | 𝙍𝙀𝙎𝙐𝙇𝙏* ⊱✅⊱╮\n\n'
