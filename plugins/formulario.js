@@ -1,10 +1,9 @@
 ºconst handler = async (m, {conn}) => {
-  m.reply(global.FormularioTh);
+  m.reply(global.Ficha);
 };
-handler.command = /^(FormularioTh)$/i;
+handler.command = /^(Ficha)$/i;
 export default handler;
-global.FormularioTh = `
-
+global.Ficha = `
 *LLENAR FORMULARIO*
 
 *NICK FF :*
@@ -16,5 +15,4 @@ global.FormularioTh = `
 
 
 *Nota : Recuerda Una Vez Hayas Pasado El Formulario Se Te Hara Prueba En Vv2 Si Mandas Ig O Tus Clips De Ahora Entras Directo*
-
 `;
