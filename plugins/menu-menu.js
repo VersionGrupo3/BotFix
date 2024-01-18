@@ -222,6 +222,8 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ DESCARGAS | DOWNLOADS ]━⬣*
+┃🚀➺ _${usedPrefix}Plataformas_
+┃🚀➺ _${usedPrefix}cuevana  *textp*_
 ┃🚀➺ _${usedPrefix}imagen | image *texto*_
 ┃🚀➺ _${usedPrefix}pinterest | dlpinterest *texto*_
 ┃🚀➺ _${usedPrefix}wallpaper|wp *texto*_
