@@ -23,7 +23,7 @@ m.reply(`╭━━━[ 〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕 🐈 ]�
 }*/
 handler.help = ['addgb <@user>']
 handler.tags = ['gatacoins']
-handler.command = ['eliminargatacoins', 'eliminargata', 'eliminarcoins', 'quitargatacoins', 'quitargata', 'quitarcoins', 'delgatacoins', 'delgata', 'delcoins'] 
+handler.command = ['eliminargatacoins', 'eliminargata', 'eliminarcoins', 'quitargatacoins', 'quitargata', 'quitarcoins', 'deloptimuscoins', 'delgata', 'delcoins'] 
 handler.group = true
 handler.rowner = true
 export default handler 
