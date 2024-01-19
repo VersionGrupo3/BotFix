@@ -21,7 +21,7 @@ Adquiriendo el bot para grupos sería por ( *1 mes* ) de ahí tendrá que renova
 
  ‎Bot Perzonalizado Sin Necesidad De Instalarlo Tu , Bot.*Mensual* 
 
-• *TIEMPO MAX DE ENTREGA 2 DIAS , BOT PROPIO*
+• *Tiempo Max De Entrega 2 Dias*
 • *Fines De Semana Estoy Off*
 • *Pregunta Cuanto Es En Tu Pais Al Wa.me/51902360712*
 `;
