@@ -107,23 +107,24 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃💫➺ _${usedPrefix}estado_
 ┃💫➺ _${usedPrefix}infobot_
 ┃💫➺ _${usedPrefix}comprarbot_
+┃💫➺ _${usedPrefix}comprarbot2_
 ┃💫➺ _${usedPrefix}creador_
 ┃💫➺ _${usedPrefix}velocidad_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 FUNCION VS / REGLAS / FICHA〕━⬣*
-┃💻➺ _${usedPrefix}Fem4 / Lista TH_
-┃💻➺ _${usedPrefix}Fem6 / Lista TH_
-┃💻➺ _${usedPrefix}FemInterna4 / Lista TH_
-┃💻➺ _${usedPrefix}FemInterna6 / Lista TH_
-┃💻➺ _${usedPrefix}Masc4 / Lista TH_
-┃💻➺ _${usedPrefix}Masc6 / Lista TH_
-┃💻➺ _${usedPrefix}MascInterna4 / Lista TH_
-┃💻➺ _${usedPrefix}MascInterna6 / Lista TH_
-┃💻➺ _${usedPrefix}Mixto4 / Lista TH_
-┃💻➺ _${usedPrefix}Mixto6 / 3 - 3_
-┃💻➺ _${usedPrefix}MixtoInterna4 / Lista TH_
-┃💻➺ _${usedPrefix}MixtoInterna6 / Lista TH_
+┃💻➺ _${usedPrefix}Fem4_
+┃💻➺ _${usedPrefix}Fem6_
+┃💻➺ _${usedPrefix}FemInterna4_
+┃💻➺ _${usedPrefix}FemInterna6_
+┃💻➺ _${usedPrefix}Masc4_
+┃💻➺ _${usedPrefix}Masc6_
+┃💻➺ _${usedPrefix}MascInterna4_
+┃💻➺ _${usedPrefix}MascInterna6_
+┃💻➺ _${usedPrefix}Mixto4_
+┃💻➺ _${usedPrefix}Mixto6_
+┃💻➺ _${usedPrefix}MixtoInterna4_
+┃💻➺ _${usedPrefix}MixtoInterna6_
 ┃💻➺ _${usedPrefix}ReglasApos_
 ┃💻➺ _${usedPrefix}Ficha / Formulario Pa Entrar A Team_
 *╰━━━━━━━━━━━━⬣*
@@ -135,121 +136,12 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃👤➺ _${usedPrefix}DriveEdits / Recursos_
 *╰━━━━━━━━━━━━⬣*
 
-*╭━〔 JUEGOS - MULTI JUEGOS 〕━⬣*
-┃🎡➺ _${usedPrefix}Abrazo_
-┃🎡➺ _${usedPrefix}Cumple_
-┃🎡➺ _${usedPrefix}Cuando_
-┃🎡➺ _${usedPrefix}Follar_
-┃🎡➺ _${usedPrefix}Huevo_
-┃🎡➺ _${usedPrefix}Formartrio_
-┃🎡➺ _${usedPrefix}Minovia_
-┃🎡➺ _${usedPrefix}Minovio_
-┃🎡➺ _${usedPrefix}Sorteo_
-┃🎡➺ _${usedPrefix}Nalga_
-┃🎡➺ _${usedPrefix}Sega_
-┃🎡➺ _${usedPrefix}mates | matemáticas | math_
-┃🎡➺ _${usedPrefix}lanzar *cara* | *cruz*
-┃🎡➺ _${usedPrefix}ppt *piedra : papel : tijera*_
-┃🎡➺ _${usedPrefix}tictactoe | ttt *sala*_
-┃🎡➺ _${usedPrefix}deltictactoe | delttt_
-┃🎡➺ _${usedPrefix}topgays_
-┃🎡➺ _${usedPrefix}topotakus_
-┃🎡➺ _${usedPrefix}toppajer@s_
-┃🎡➺ _${usedPrefix}topput@s_
-┃🎡➺ _${usedPrefix}topintegrantes | topintegrante_
-┃🎡➺ _${usedPrefix}toplagrasa | topgrasa_
-┃🎡➺ _${usedPrefix}toppanafrescos | toppanafresco_
-┃🎡➺ _${usedPrefix}topshiposters | topshipost_
-┃🎡➺ _${usedPrefix}toplindos | toplind@s_
-┃🎡➺ _${usedPrefix}topfamosos | topfamos@s_
-┃🎡➺ _${usedPrefix}topparejas | top5parejas_
-┃🎡➺ _${usedPrefix}gay | gay *@tag*_
-┃🎡➺ _${usedPrefix}gay2 *nombre : @tag*_
-┃🎡➺ _${usedPrefix}lesbiana *nombre : @tag*_
-┃🎡➺ _${usedPrefix}manca *nombre : @tag*_
-┃🎡➺ _${usedPrefix}manco *nombre : @tag*_
-┃🎡➺ _${usedPrefix}pajero *nombre : @tag*_
-┃🎡➺ _${usedPrefix}pajera *nombre : @tag*_
-┃🎡➺ _${usedPrefix}puto *nombre : @tag*_
-┃🎡➺ _${usedPrefix}puta *nombre : @tag*_
-┃🎡➺ _${usedPrefix}rata *nombre : @tag*_
-┃🎡➺ _${usedPrefix}love *nombre : @tag*_
-┃🎡➺ _${usedPrefix}doxear *nombre : @tag*_
-┃🎡➺ _${usedPrefix}doxxeame_
-┃🎡➺ _${usedPrefix}pregunta *texto*_
-┃🎡➺ _${usedPrefix}apostar | slot *cantidad*_
-┃🎡➺ _${usedPrefix}formarpareja_
-┃🎡➺ _${usedPrefix}dado_
-┃🎡➺ _${usedPrefix}verdad_
-┃🎡➺ _${usedPrefix}reto_
-┃🎡➺ _${usedPrefix}multijuegos_
-┃🎡➺ _${usedPrefix}juegos_
-*╰━━━━━━━━━━━━⬣*
-
-*╭━━━[ AJUSTES - CHATS ]━━━⬣*
-┃⚙️ _${usedPrefix}on *:* off *bienvenida*_
-┃⚙️ _${usedPrefix}on *:* off *avisos*_
-┃⚙️ _${usedPrefix}on *:* off *restringir*_
-┃⚙️ _${usedPrefix}on *:* off *antillamar*_
-┃⚙️ _${usedPrefix}on *:* off *publico*_
-┃⚙️ _${usedPrefix}on *:* off *autovisto*_
-┃⚙️ _${usedPrefix}on *:* off *temporal*_
-┃⚙️ _${usedPrefix}on *:* off *stickers*_
-┃⚙️ _${usedPrefix}on *:* off *autosticker*_
-┃⚙️ _${usedPrefix}on *:* off *reacciones*_
-┃⚙️ _${usedPrefix}on *:* off *audios*_
-┃⚙️ _${usedPrefix}on *:* off *modocaliente*_
-┃⚙️ _${usedPrefix}on *:* off *antitoxicos*_
-┃⚙️ _${usedPrefix}on *:* off *antiver*_
-┃⚙️ _${usedPrefix}on *:* off *antieliminar*_
-┃⚙️ _${usedPrefix}on *:* off *antinternacional*_
-┃⚙️ _${usedPrefix}on *:* off *antienlace*_
-┃⚙️ _${usedPrefix}on *:* off *antienlace2*_
-┃⚙️ _${usedPrefix}on *:* off *antitiktok*_
-┃⚙️ _${usedPrefix}on *:* off *antiyoutube*_
-┃⚙️ _${usedPrefix}on *:* off *antitelegram*_
-┃⚙️ _${usedPrefix}on *:* off *antifacebook*_
-┃⚙️ _${usedPrefix}on *:* off *antinstagram*_
-┃⚙️ _${usedPrefix}on *:* off *antitwitter*_
-┃⚙️ _${usedPrefix}on *:* off *soloprivados*_
-┃⚙️ _${usedPrefix}on *:* off *sologrupos*_
-*╰━━━━━━━━━━━━⬣*
-
-*╭━〔 GRUPO - RESUMEN 〕━⬣*
-┃🧾➺ _${usedPrefix}configuracion_
-┃🧾➺ _${usedPrefix}settings_
-┃🧾➺ _${usedPrefix}vergrupo_
-*╰━━━━━━━━━━━━⬣*
-
-*╭━[ DESCARGAS | DOWNLOADS ]━⬣*
-┃🚀➺ _${usedPrefix}Plataformas_
-┃🚀➺ _${usedPrefix}cuevana  *textp*_
-┃🚀➺ _${usedPrefix}imagen | image *texto*_
-┃🚀➺ _${usedPrefix}pinterest | dlpinterest *texto*_
-┃🚀➺ _${usedPrefix}wallpaper|wp *texto*_
-┃🚀➺ _${usedPrefix}play | play2 *texto o link*_
-┃🚀➺ _${usedPrefix}play.1 *texto o link*_
-┃🚀➺ _${usedPrefix}play.2 *texto o link*_ 
-┃🚀➺ _${usedPrefix}ytmp3 | yta *link*_
-┃🚀➺ _${usedPrefix}ytmp4 | ytv *link*_
-┃🚀➺ _${usedPrefix}pdocaudio | ytadoc *link*_
-┃🚀➺ _${usedPrefix}pdocvieo | ytvdoc *link*_
-┃🚀➺ _${usedPrefix}tw |twdl | twitter *link*_
-┃🚀➺ _${usedPrefix}facebook | fb *link*_
-┃🚀➺ _${usedPrefix}verig | igstalk *usuario(a)*_
-┃🚀➺ _${usedPrefix}ighistoria | igstory *usuario(a)*_
-┃🚀➺ _${usedPrefix}tiktok *link*_
-┃🚀➺ _${usedPrefix}tiktokimagen | ttimagen *link*_
-┃🚀➺ _${usedPrefix}tiktokfoto | tiktokphoto *usuario(a)*_
-┃🚀➺ _${usedPrefix}vertiktok | tiktokstalk *usuario(a)*_
-┃🚀➺ _${usedPrefix}mediafire | dlmediafire *link*_
-┃🚀➺ _${usedPrefix}clonarepo | gitclone *link*_
-┃🚀➺ _${usedPrefix}clima *país ciudad*_
-┃🚀➺ _${usedPrefix}consejo_
-┃🚀➺ _${usedPrefix}morse codificar *texto*_
-┃🚀➺ _${usedPrefix}morse decodificar *morse*_
-┃🚀➺ _${usedPrefix}fraseromantica_
-┃🚀➺ _${usedPrefix}historia_
+*╭━〔 MENUS SECUNDARIOS 〕⬣*
+┃🎡➺ _${usedPrefix}MenuJuegos_
+┃🚀➺ _${usedPrefix}MenuDescargas_
+┃⚙️➺ _${usedPrefix}MenuAjustes_
+┃🌐➺ _${usedPrefix}MenuGrupos_
+┃🧩➺ _${usedPrefix}MenuAnime_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ CHAT ANONIMO ]━⬣*
@@ -260,41 +152,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃👤➺ _${usedPrefix}leave_
 *╰━━━━━━━━━━━━⬣*
 
-*╭━[ CONFIGURACIÓN - GRUPOS ]━⬣*
-┃🌐➺ _${usedPrefix}add *numero*_
-┃🌐➺ _${usedPrefix}sacar | ban | kick  *@tag*_
-┃🌐➺ _${usedPrefix}grupo *abrir : cerrar*_
-┃🌐➺ _${usedPrefix}group *open : close*_
-┃🌐➺ _${usedPrefix}daradmin | promote *@tag*_
-┃🌐➺ _${usedPrefix}quitar | demote *@tag*_
-┃🌐➺ _${usedPrefix}banchat_
-┃🌐➺ _${usedPrefix}unbanchat_
-┃🌐➺ _${usedPrefix}banuser *@tag*_
-┃🌐➺ _${usedPrefix}unbanuser *@tag*_
-┃🌐➺ _${usedPrefix}admins *texto*_
-┃🌐➺ _${usedPrefix}invocar *texto*_
-┃🌐➺ _${usedPrefix}tagall *texto*_
-┃🌐➺ _${usedPrefix}hidetag *texto*_
-┃🌐➺ _${usedPrefix}infogrupo | infogroup_
-┃🌐➺ _${usedPrefix}grupotiempo | grouptime *Cantidad*_
-┃🌐➺ _${usedPrefix}advertencia *@tag*_
-┃🌐➺ _${usedPrefix}deladvertencia *@tag*_
-┃🌐➺ _${usedPrefix}delwarn *@tag*_
-┃🌐➺ _${usedPrefix}crearvoto | startvoto *texto*_
-┃🌐➺ _${usedPrefix}sivotar | upvote_
-┃🌐➺ _${usedPrefix}novotar | devote_
-┃🌐➺ _${usedPrefix}vervotos | cekvoto_
-┃🌐➺ _${usedPrefix}delvoto | deletevoto_
-┃🌐➺ _${usedPrefix}enlace | link_
-┃🌐➺ _${usedPrefix}newnombre | nuevonombre *texto*_
-┃🌐➺ _${usedPrefix}newdesc | descripcion *texto*_
-┃🌐➺ _${usedPrefix}setwelcome | bienvenida *texto*_
-┃🌐➺ _${usedPrefix}setbye | despedida *texto*_
-┃🌐➺ _${usedPrefix}nuevoenlace | resetlink_
-┃🌐➺ _${usedPrefix}on_
-┃🌐➺ _${usedPrefix}off_
-*╰━━━━━━━━━━━━⬣*
-
 *╭━━━[ PAREJAS 💞 ]━━⬣*
 ┃❤️➺ _${usedPrefix}listaparejas | listship_
 ┃❤️➺ _${usedPrefix}mipareja | mylove_
@@ -302,14 +159,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃❤️➺ _${usedPrefix}aceptar | accept *@tag*_
 ┃❤️➺ _${usedPrefix}rechazar | decline *@tag*_
 ┃❤️➺ _${usedPrefix}terminar | finish *@tag*_
-*╰━━━━━━━━━━━━⬣*
-
-*╭━[ VOTACIONES EN GRUPOS 📧 ]━⬣*
-┃📧➺ _${usedPrefix}crearvoto | startvoto *texto*_
-┃📧➺ _${usedPrefix}sivotar | upvote_
-┃📧➺ _${usedPrefix}novotar | devote_
-┃📧➺ _${usedPrefix}vervotos | cekvoto_
-┃📧➺ _${usedPrefix}delvoto | deletevoto_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━━━[ CONTENIDO 🔞 ]━━⬣*
@@ -340,59 +189,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃⛺ _${usedPrefix}itssostupid_
 ┃⛺ _${usedPrefix}pixelar_
 ┃⛺ _${usedPrefix}blur_
-*╰━━━━━━━━━━━━⬣*
-
-*╭━[ RANDOM | ANIME 🧩 ]━⬣*
-┃🧩 _${usedPrefix}chica_
-┃🧩 _${usedPrefix}chico_
-┃🧩 _${usedPrefix}cristianoronaldo_
-┃🧩 _${usedPrefix}messi_
-┃🧩 _${usedPrefix}meme_
-┃🧩 _${usedPrefix}meme2_
-┃🧩 _${usedPrefix}itzy_
-┃🧩 _${usedPrefix}blackpink_
-┃🧩 _${usedPrefix}kpop *blackpink : exo : bts*_
-┃🧩 _${usedPrefix}lolivid_
-┃🧩 _${usedPrefix}loli_
-┃🧩 _${usedPrefix}navidad_
-┃🧩 _${usedPrefix}ppcouple_
-┃🧩 _${usedPrefix}neko_
-┃🧩 _${usedPrefix}waifu_
-┃🧩 _${usedPrefix}akira_
-┃🧩 _${usedPrefix}akiyama_
-┃🧩 _${usedPrefix}anna_
-┃🧩 _${usedPrefix}asuna_
-┃🧩 _${usedPrefix}ayuzawa_
-┃🧩 _${usedPrefix}boruto_
-┃🧩 _${usedPrefix}chiho_
-┃🧩 _${usedPrefix}chitoge_
-┃🧩 _${usedPrefix}deidara_
-┃🧩 _${usedPrefix}erza_
-┃🧩 _${usedPrefix}elaina_
-┃🧩 _${usedPrefix}eba_
-┃🧩 _${usedPrefix}emilia_
-┃🧩 _${usedPrefix}hestia_
-┃🧩 _${usedPrefix}hinata_
-┃🧩 _${usedPrefix}inori_
-┃🧩 _${usedPrefix}isuzu_
-┃🧩 _${usedPrefix}itachi_
-┃🧩 _${usedPrefix}itori_
-┃🧩 _${usedPrefix}kaga_
-┃🧩 _${usedPrefix}kagura_
-┃🧩 _${usedPrefix}kaori_
-┃🧩 _${usedPrefix}keneki_
-┃🧩 _${usedPrefix}kotori_
-┃🧩 _${usedPrefix}kurumi_
-┃🧩 _${usedPrefix}madara_
-┃🧩 _${usedPrefix}mikasa_
-┃🧩 _${usedPrefix}miku_
-┃🧩 _${usedPrefix}minato_
-┃🧩 _${usedPrefix}naruto_
-┃🧩 _${usedPrefix}nezuko_
-┃🧩 _${usedPrefix}sagiri_
-┃🧩 _${usedPrefix}sasuke_
-┃🧩 _${usedPrefix}sakura_
-┃🧩 _${usedPrefix}cosplay_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ MODIFICAR AUDIO 🧰 ]━⬣*
