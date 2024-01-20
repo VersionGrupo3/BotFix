@@ -13,9 +13,9 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["51902360712", '〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕', true], //〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
-["525526591934"], 
-["5492996111177"]]
+["5491160413309", '〔 𝗕𝗟𝗢𝗗𝗜𝗘 𝗕𝗢𝗧 〕', true], //〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
+["51902360712"], 
+["5491160413309"]]
 
 global.mods = []
 global.prems = []
@@ -104,11 +104,8 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["51902360712", '〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕', 1], 
-["51902360712", '〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕', 1],  
-["51902360712", '〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕', 1],
-["51902360712", '〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕', 1],
-["51902360712", '〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕', 1]]
+["51902360712", '〔 𝗕𝗟𝗢𝗗𝗜𝗘 𝗕𝗢𝗧 〕', 1], 
+["51902360712", '〔 𝗕𝗟𝗢𝗗𝗜𝗘 𝗕𝗢𝗧 〕', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -116,8 +113,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕"
-global.author = "〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕"
+global.packname = "〔 𝗕𝗟𝗢𝗗𝗜𝗘 𝗕𝗢𝗧 〕"
+global.author = "〔 𝗕𝗟𝗢𝗗𝗜𝗘 𝗕𝗢𝗧 〕"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -125,7 +122,7 @@ global.author = "〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕"
+global.gt = "〔 𝗕𝗟𝗢𝗗𝗜𝗘 𝗕𝗢𝗧 〕"
 
 global.yt = "https://www.instagram.com/optimus.ventas.bot"
 global.yt2 = "https://www.instagram.com/optimus.ventas.bot"
